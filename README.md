@@ -1,4 +1,4 @@
-# IP Tables:Firewall Rules Lab
+# IP Tables: Firewall Rules Lab
 
 ## Objective
 
@@ -14,13 +14,11 @@ Understand and implement basic iptables commands in order to understand the func
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- VirtualBox for VMs
+- Ubuntu IP tables how to guide (https://help.ubuntu.com/community/IptablesHowTo)
 
-## Steps
+## Steps and deliverables
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
