@@ -6,12 +6,11 @@ Understand and implement basic iptables commands in order to understand the func
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
+- Untilaze Ubuntu in a virtual environment
+- Firewall configuration
+- Ability to apply packet filtering rules utilizing IP tables
+- Enhanced knowledge of network security protocols.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
