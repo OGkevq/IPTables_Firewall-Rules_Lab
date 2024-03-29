@@ -19,9 +19,11 @@ Understand and implement basic iptables commands in order to understand the func
 - Ubuntu IP tables how to guide (https://help.ubuntu.com/community/IptablesHowTo)
 
 ## Steps and deliverables
-drag & drop screenshots here or use imgur and reference them using imgsrc
+A PDF with all instructions for the lab is attached here --> [CECS 303 - Lab 3 - iptables (1).pdf](https://github.com/OGkevq/IPTables_Firewall-Rules_Lab/files/14799442/CECS.303.-.Lab.3.-.iptables.1.pdf)
 
-Every screenshot should have some text explaining what the screenshot is about.
+A Word doc with screenshots of the lab is attached here --> [CECS 303 Lab 3.docx](https://github.com/OGkevq/IPTables_Firewall-Rules_Lab/files/14800099/CECS.303.Lab.3.docx)
+
+
 
 Example below.
 
