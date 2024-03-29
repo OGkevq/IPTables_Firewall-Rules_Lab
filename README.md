@@ -23,8 +23,5 @@ A PDF with all instructions for the lab is attached here --> [CECS 303 - Lab 3 -
 
 A Word doc with screenshots of the lab is attached here --> [CECS 303 Lab 3.docx](https://github.com/OGkevq/IPTables_Firewall-Rules_Lab/files/14800099/CECS.303.Lab.3.docx)
 
+*Note each screenshot is associated with a section of the lab instructions and is labeled accordingly.
 
-
-Example below.
-
-*Ref 1: Network Diagram*
