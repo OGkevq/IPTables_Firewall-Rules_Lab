@@ -2,8 +2,7 @@
 
 ## Objective
 
-Understand and implement basic iptables commands in order to understand the functionality of basic firewall rules.
-
+Understand and implement iptables commands to grasp the essence of fundamental firewall rules
 
 ### Skills Learned
 
