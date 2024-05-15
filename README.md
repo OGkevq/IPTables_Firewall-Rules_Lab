@@ -6,7 +6,7 @@ Understand and implement iptables commands to grasp the essence of fundamental f
 
 ### Skills Learned
 
-- Untilaze Ubuntu in a virtual environment
+- Utilize Ubuntu in a virtual environment
 - Firewall configuration
 - Ability to apply packet filtering rules utilizing IP tables
 - Enhanced knowledge of network security protocols.
